@@ -7,7 +7,7 @@ function App() {
     <h1> Mi primerapagina web hipermedia</h1>
 <h2>Imagen</h2>
     <img src='https://i.stack.imgur.com/ScRR6m.jpg'></img>
-    <h2> esta es la representación grafica de mi haciendo este proyecto </h2>
+    <h3> esta es la representación grafica de mi haciendo este proyecto </h2>
 <h2> Audio </h2>
 <audio controls=""> <source src="https://samplelib.com/lib/preview/mp3/sample-3s.mp3" type="audio/mpeg">Tu navegador no soporta la etiqueta de audio.</audio>
 <h2> video </h2>
